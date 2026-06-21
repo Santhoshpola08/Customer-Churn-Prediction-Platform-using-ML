@@ -21,3 +21,21 @@ This project aims to build an intelligent predictive system capable of:
 ## Dataset
 
 Dataset used "Telco Customer Churn Dataset".
+
+### Dataset Statistics
+
+
+| Attribute | Value | 
+| --- | --- |
+| Row 1, Col 1 | Row 1, Col 2 | Row 1, Col 3 |
+| Row 2, Col 1 | Row 2, Col 2 | Row 2, Col 3 |
+
+  - Records : 7,043
+  - Features : 19
+  - Target Variable : Churn
+  - Problem type : Binary Classification
+
+ ## Tools and Technologies
+
+ - Python : Programming Language
+ - Pandas, NumPy
