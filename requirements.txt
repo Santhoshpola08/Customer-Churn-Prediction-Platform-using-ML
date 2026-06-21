@@ -6,6 +6,6 @@ seaborn
 scikit-learn
 scipy
 xgboost
-sharp
+shap
 joblib
 streamlit
