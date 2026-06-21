@@ -180,7 +180,10 @@ The developed system enables organizations to:
  ## Author
 
 Pola Santhosh
+
 Gmail : santhoshpola2003@gmail.com
+
 Project dashboard : https://customer-churn-prediction-platform-using-ml.streamlit.app/
+
 
 Machine Learning | Data Science | Artificial Intelligence
