@@ -5,6 +5,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 import joblib
+import shap
 
 from sklearn.metrics import roc_auc_score, f1_score, precision_score, recall_score
 
